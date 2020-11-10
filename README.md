@@ -1,4 +1,4 @@
-> :rocket: Projeto rocketseat NLW Proffy, entretanto o BackEnd foi feito em Java e utilizando o Postgres como BD
+> :rocket: Projeto rocketseat NLW Proffy, entretanto o BackEnd foi feito em Java e utilizando o Postgres como BD. No projeto do curso o Back é desenvolvido em NodeJS.
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
